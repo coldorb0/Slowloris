@@ -10,8 +10,5 @@ Requirements:
 3)# ./slowloris.pl
 4)# perl slowloris.pl -dns (Victim URL or IP) -options
 
-educational purposes only
-
-Done
-
-Rizaldy Christoffel
+#Disclaimer Educational Purposes Only
+Reupload by fireorb
